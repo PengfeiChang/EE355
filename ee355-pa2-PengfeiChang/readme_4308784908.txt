@@ -1,0 +1,6 @@
+The code of removing whitespaces in a string was written with reference from
+GeeksforGeeks Remove whitespaces from a given string 
+https://www.geeksforgeeks.org/remove-spaces-from-a-given-string/
+
+The code of passing ofstream as argument to the function and continue writing to the file is looked up from the website Cpulsplus.com wrting a file as an argument to the function
+http://www.cplusplus.com/forum/unices/54404/

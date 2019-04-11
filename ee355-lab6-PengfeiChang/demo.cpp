@@ -116,6 +116,16 @@ void zoom(string filename, unsigned char dest[SIZE][SIZE][3]){
 
     unsigned char src[SIZE][SIZE][3];
     readRGBBMP(filename.c_str(), src);
+    for(int i=0; i<SIZE; i++)
+    {
+        for(int j=0; j<SIZE; j++)
+        {
+            for(int k = 0; k< 3; k++)
+            {
+                dest[i][j][k] = src[SIZE/4 + i/2][SIZE/4 + j/2][k];
+            }
+        }
+    }
 
    
 }

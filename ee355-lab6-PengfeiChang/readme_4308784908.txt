@@ -1,0 +1,11 @@
+To write my code from line 27 - 44:
+The function of flip 90 degrees clockwise is refered from the Geeksforgeeks
+"Inplace rotate square matrix by 90 degrees | Set 1"
+https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
+
+To write my code from line 46 - 62:
+The function of flip the image 180 degrees has its basis from the
+Geeksforgeeks "Rotate a Matrix by 180 degree"
+https://www.geeksforgeeks.org/rotate-matrix-180-degree/
+
+
